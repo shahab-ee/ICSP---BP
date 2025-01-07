@@ -5,8 +5,8 @@ This repository contains projects completed for the course "Introduction To Comp
 ## Projects
 
 * **Project 1: https://github.com/shahab-ee/ICSP---BP/tree/main/CA1
-* **Project 2: https://github.com/shahab-ee/ICSP---BP/tree/main/CA1
-* **Project 3: https://github.com/shahab-ee/ICSP---BP/tree/main/CA1
+* **Project 2: https://github.com/shahab-ee/ICSP---BP/tree/main/CA2
+* **Project 3: https://github.com/shahab-ee/ICSP---BP/tree/main/CA3
 
 **Note:** Replace the bracketed text with the specific details of your projects and create folders within the repository to house each project's code and files.
 
